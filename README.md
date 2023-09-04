@@ -1,4 +1,4 @@
-# ImageClassification
+# Image Classification
 
 ## Overview
 
