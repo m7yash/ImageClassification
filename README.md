@@ -56,11 +56,3 @@ test_loss, test_acc = evaluate(model, test_loader)
 ## Output
 
 Training and validation accuracies are plotted using matplotlib. The best hyperparameters are printed, and the test accuracies for the best models are displayed.
-
-## Contact
-
-Feel free to reach out for any questions or issues.
-
-## License
-
-MIT License
