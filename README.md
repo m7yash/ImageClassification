@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project contains code for training and evaluating neural networks on the CIFAR-10 dataset for image classification. The project demonstrates both logistic regression (a linear model) and more complex architectures using ReLU and Conv2D layers.
+This project contains code for training and evaluating neural networks on the CIFAR-10 dataset for image classification. The project demonstrates both a linear model and more complex architectures using ReLU and Conv2D layers.
 
 ## Features
 
