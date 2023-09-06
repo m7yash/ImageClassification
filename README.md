@@ -1,5 +1,7 @@
 # Image Classifier
 
+![image](https://github.com/m7yash/ImageClassifier/assets/61370209/80b76468-31d5-4fe8-b146-94f4a942ffc1)
+
 ## Overview
 
 This project contains code for training and evaluating neural networks on the CIFAR-10 dataset for image classification. The project demonstrates both a linear model and more complex architectures using ReLU and Conv2D layers.
