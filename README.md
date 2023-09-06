@@ -1,5 +1,9 @@
 # Image Classifier
 
+Graph Title: Accuracies of Image Classification with Linear Network Architecture
+![image](https://github.com/m7yash/ImageClassifier/assets/61370209/37ae73d1-9997-4e7a-bfa2-a82d37f7375c)
+
+Graph Title: Accuracies of Image Classification with Convolutional Neural Network Architecture
 ![image](https://github.com/m7yash/ImageClassifier/assets/61370209/80b76468-31d5-4fe8-b146-94f4a942ffc1)
 
 ## Overview
